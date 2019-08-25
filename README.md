@@ -14,11 +14,8 @@ This Project is on “MANCALA GAME” Computer Graphics using OpenGL Functions. 
 Overview
 
 This is a two player game – Player 1 and Player 2.These two have to compete with each other to collect as many stones as possible in
-
 order to win. The initial display screens consists of project details and the instructions for the game. The players start the game by
-
 selecting maximum stone containing polygons and each get one chance for the same. Apart from it bonus chance is given to leading
-
 players. The player who ends up with maximum stones is their allotted polygon shaped stores at the side wins the game.
 
      
