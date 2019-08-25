@@ -9,11 +9,7 @@ Download link: https://code.google.com/archive/p/rawvideoplayer/downloads
 
 About The Game : Mancala
 
-This Project is on “MANCALA GAME” Computer Graphics using OpenGL Functions. It is a User interactive program where in the User can play the
-game by making use of the input devices like Keyboard and Mouse. This project mainly consists of a board game. Mancala, is one of the 
-oldest games played. Mancala is a generic name for a family of 2-player turn-based strategy board games played with small stones, beans, 
-or seeds and rows of holes or pits in the earth, a board or other playing surface. The objective is usually to capture all or some set of 
-the opponent's stones, beans, etc.Versions of the game have been played for at least hundreds of years around the world.
+This Project is on “MANCALA GAME” Computer Graphics using OpenGL Functions. It is a User interactive program where in the User can play the game by making use of the input devices like Keyboard and Mouse. This project mainly consists of a board game. Mancala, is one of the oldest games played. Mancala is a generic name for a family of 2-player turn-based strategy board games played with small stones, beans,or seeds and rows of holes or pits in the earth, a board or other playing surface. The objective is usually to capture all or some set of the opponent's stones, beans, etc.Versions of the game have been played for at least hundreds of years around the world.
 
 Overview
 
